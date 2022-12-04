@@ -1,5 +1,3 @@
-import java.net.ResponseCache
-
 private enum class RockPaperScissors(val play: Char, val response: Char, val score: Int) {
     Rock('A', 'X', 1),
     Paper('B', 'Y', 2),
